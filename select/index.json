@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "エロティカ・セブン　EROTICA SEVEN",
+  "base_artist": "サザンオールスターズ",
+  "createdAt": "2025-12-20T07:48:18.968271Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "エロティカ・セブン",
+      "artist": "サザンオールスターズ",
+      "has_synced": true,
+      "path": "select/01_エロティカ・セブン_サザンオールスターズ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "エロティカ・セブン EROTICA SEVEN",
+      "artist": "SOUTHERN ALL STARS",
+      "has_synced": true,
+      "path": "select/02_エロティカ・セブン_EROTICA_SEVEN_SOUTHERN_ALL_STARS.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "エロティカ・セブン EROTICA SEVEN",
+      "artist": "サザンオールスターズ",
+      "has_synced": true,
+      "path": "select/03_エロティカ・セブン_EROTICA_SEVEN_サザンオールスターズ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "エロティカ・セブン",
+      "artist": "Southern All Stars",
+      "has_synced": true,
+      "path": "select/04_エロティカ・セブン_Southern_All_Stars.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "エロティカ・セブン",
+      "artist": "サザンオールスターズ",
+      "has_synced": true,
+      "path": "select/05_エロティカ・セブン_サザンオールスターズ.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "エロティカ・セブン EROTICA SEVEN",
+      "artist": "サザンオールスターズ",
+      "has_synced": true,
+      "path": "select/06_エロティカ・セブン_EROTICA_SEVEN_サザンオールスターズ.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "エロティカ・セブン",
+      "artist": "飛蘭",
+      "has_synced": true,
+      "path": "select/07_エロティカ・セブン_飛蘭.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "エロティカ・セブン Erotica Seven",
+      "artist": "Southern All Stars (サザンオールスターズ)",
+      "has_synced": true,
+      "path": "select/08_エロティカ・セブン_Erotica_Seven_Southern_All_Stars_(サザンオールスターズ).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "エロティカ・セブン",
+      "artist": "サザンオールスターズ",
+      "has_synced": false,
+      "path": "select/pl_01_エロティカ・セブン_サザンオールスターズ.txt"
+    }
+  ]
+}
